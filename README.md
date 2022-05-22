@@ -35,7 +35,7 @@ Also you need to have installed [Gatsby CLI](https://www.gatsbyjs.org/docs/quick
 ```
 node@v10.16.0 or higher
 npm@6.9.0 or higher
-git@2.17.1 or higher
+git@2.17.1 or higher'
 gatsby-cli@2.8.22 or higher
 ```
 
