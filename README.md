@@ -62,7 +62,7 @@ $ cd gatsby-simplefolio
 $ git remote remove origin
 ```
 
-Then you can install the dependencies either using NPM or Yarn:
+Then you can install the dependencies either using NPM zxczxcor Yarn:
 
 Using NPM:
 
